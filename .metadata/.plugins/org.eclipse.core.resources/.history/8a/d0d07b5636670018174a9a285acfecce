@@ -1,0 +1,9 @@
+package br.com.caelum.leilao.infra.dao;
+
+public class RepositorioDePagamentos {
+	
+	void salva(Pagamento pagamento){
+		
+	}
+
+}

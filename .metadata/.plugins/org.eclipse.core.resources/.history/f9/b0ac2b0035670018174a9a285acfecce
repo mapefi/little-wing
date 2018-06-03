@@ -1,0 +1,13 @@
+package br.com.caelum.leilao.servico;
+
+import java.util.List;
+
+import br.com.caelum.leilao.dominio.Leilao;
+
+public class GeradorDePagamento {
+	
+	public void gera(){
+		List<Leilao> leiloesEncerrados = this.leiloes.encerrados();
+	}
+
+}

@@ -1,0 +1,8 @@
+1518362260374	Rename resource 'index.html'
+1518385315914	Rename type 'Candlestick'
+1518385429482	Extract method 'extracted'
+1518385502852	Rename type 'CandlestickFactory'
+1518385589965	Extract local variable 'preco'
+1518385637296	Rename type 'TestaCandlestickFactory'
+1518532200858	Extract interface 'Indicador'
+1518544654468	Extract method 'extracted'

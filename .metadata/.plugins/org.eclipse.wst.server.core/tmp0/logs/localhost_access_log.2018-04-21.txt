@@ -1,0 +1,14 @@
+127.0.0.1 - - [21/Apr/2018:19:50:11 -0300] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:19:50:49 -0300] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:19:51:03 -0300] "GET /argentum-web HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:19:51:32 -0300] "GET /argentum-web/javax.faces.resource/charts/charts.css.xhtml;jsessionid=0FD35AF1F3303BF416A003C0B381B7BC?ln=primefaces&v=5.3 HTTP/1.1" 200 4758
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:19:51:32 -0300] "GET /argentum-web/javax.faces.resource/jquery/jquery.js.xhtml;jsessionid=0FD35AF1F3303BF416A003C0B381B7BC?ln=primefaces&v=5.3 HTTP/1.1" 200 107783
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:19:51:32 -0300] "GET /argentum-web/javax.faces.resource/primefaces.js.xhtml;jsessionid=0FD35AF1F3303BF416A003C0B381B7BC?ln=primefaces&v=5.3 HTTP/1.1" 200 350170
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:19:51:32 -0300] "GET /argentum-web/javax.faces.resource/jquery/jquery-plugins.js.xhtml;jsessionid=0FD35AF1F3303BF416A003C0B381B7BC?ln=primefaces&v=5.3 HTTP/1.1" 200 243000
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:19:51:32 -0300] "GET /argentum-web/javax.faces.resource/theme.css.xhtml?ln=primefaces-aristo HTTP/1.1" 200 29234
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:19:51:32 -0300] "GET /argentum-web/javax.faces.resource/primefaces.css.xhtml;jsessionid=0FD35AF1F3303BF416A003C0B381B7BC?ln=primefaces&v=5.3 HTTP/1.1" 200 70853
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:19:51:32 -0300] "GET /argentum-web/javax.faces.resource/charts/charts.js.xhtml;jsessionid=0FD35AF1F3303BF416A003C0B381B7BC?ln=primefaces&v=5.3 HTTP/1.1" 200 329917
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:19:51:33 -0300] "GET /argentum-web/ HTTP/1.1" 200 58080
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:19:51:33 -0300] "GET /argentum-web/javax.faces.resource/images/ui-icons_38667f_256x240.png.xhtml?ln=primefaces-aristo HTTP/1.1" 200 4369
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:19:54:25 -0300] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:19:57:22 -0300] "GET / HTTP/1.1" 404 1073
